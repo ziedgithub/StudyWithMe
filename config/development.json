@@ -1,0 +1,9 @@
+{
+  "env": "development",
+  "database" : {
+    "url": "localhost",
+    "name": "StudyWithMe",
+    "user": "",
+    "port": 27017
+  }
+}

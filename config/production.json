@@ -1,0 +1,8 @@
+{
+  "env": "production",
+  "database" : {
+    "url": "mongodb+srv://cluster0-4dyv1.mongodb.net/StudyWithMe?retryWrites=true&w=majority",
+    "name": "ziedbena_cestmavie",
+    "user": "ghrib"
+  }
+}
