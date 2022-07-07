@@ -19,7 +19,7 @@
     "express-async-errors": "^3.1.1",
     "helmet": "^3.21.3",
     "jsonwebtoken": "^8.5.1",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.21",
     "mongoose": "^5.9.4",
     "spdy": "^4.0.0",
